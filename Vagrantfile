@@ -1,6 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-# For vagrant version of this repo, you will have to edit all references to eth0 in ansible recipes, and replace by eth1 (as eth1 is the common network between all nodes).
+# For vagrant version of this repo, you will have to edit all references to eth1 in ansible recipes, and replace by eth1 (as eth1 is the common network between all nodes).
 
 VAGRANTFILE_API_VERSION = "2"
 
